@@ -7,7 +7,8 @@ This tool is particularly useful in adolescent network environments like school 
 
 ## Demo
 
-![super-simple-ssh Demo](assets/auth.gif) *User demonstrating access to a lab machine @ mach 1 speed.*
+![super-simple-ssh Demo](assets/auth.gif)
+*User demonstrating access to a lab machine @ mach 1 speed.*
 ## Features
 
 - **SSH Key Management**: Use an existing SSH key or generate a new one with your choice of algorithm (RSA, ECDSA, or Ed25519).
